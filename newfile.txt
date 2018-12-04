@@ -3,5 +3,6 @@ this is second line.
 this is 3rd line.
 this is fourth line.
 this is fifth line modified in feature1 branch.
+this is 6th line added in feature1.
 :w
 
