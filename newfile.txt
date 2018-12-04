@@ -4,5 +4,7 @@ this is 3rd line.
 this is fourth line.
 this is fifth line after merging feature1 in master branch and resolving merge conflict.
 this is 6th line in master branch.
+this is fifth line modified in feature1 branch.
+this is 6th line added in feature1.
 :w
 
