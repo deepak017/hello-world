@@ -2,6 +2,6 @@ Hello World!!! Deepak here
 this is second line.
 this is 3rd line.
 this is fourth line.
-this is fifth added in master branch.
+this is fifth line after merging feature1 in master branch and resolving merge conflict.
 :w
 
